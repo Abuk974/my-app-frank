@@ -1,4 +1,12 @@
-.App {
+.App{
+  max-width: 600px;
+  margin: 0;
+}
+.App h1{
   text-align: center;
 }
-
+.App footer{
+  font-size: 13px;
+  margin: 20px;
+  text-align: center;
+}
